@@ -1,14 +1,15 @@
-Salut les boyz!!
+# React + Python Stack starting template 
+This is a basic setup for a Python and React stack project.
 
-J'espère que vous allez pouvoir utiliser ça et l'intégrer avec vos propres affaires.
-
-Le backend et frontend sont complètement séparé et doivent être démarré en parallèle comme en génie log.
-
-# Pour démarrer le backend:
+# To start the backend:
+''' Powershell
 "cd backend"
 "python main.py"
+'''
 
-# Pour démarrer le frontend:
+# To start the frontend:
+''' Powershell
 "cd frontend"
 "npm install"
 "npm start"
+'''
