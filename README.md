@@ -1,5 +1,5 @@
 # React + Python Stack starting template 
-This is a basic setup for a Python and React stack project.
+This is a basic setup for React in the frontend and a Python REST API with Flask for the backend.
 
 ## To start the backend flask server:
 ``` Powershell
